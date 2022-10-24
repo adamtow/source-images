@@ -4,15 +4,15 @@ Graphics for use with the Multiview Switcher in MixEffect 1.7.0 and higher.
 
 You can specify images to represent your input sources when using the Multiview Switcher. You set these images in your Switcher Connection Edit section by following these steps:
 
-1. Tap on a Switcher Connection in the MixEffect Navigation View.
-2. Tap Edit.
-3. Scroll down to the Source Images section.
+1. Tap on a **Switcher Connection** in the MixEffect Navigation View.
+2. Tap **Edit**.
+3. Scroll down to the **Source Images** section.
 
 Each input should be entered on its own line using the following format:
 
-X COLOR: URL
+`X COLOR: URL`
 
-Where:
+where:
 
 - **X**: 1-based index for the video source
 - **COLOR (Optional)**: Hex value for the background (inc. the # symbol). If you do not specify a background color, black will be used.
@@ -37,3 +37,4 @@ For instance, the following Source Images are defined for an ATEM Mini Extreme I
 Use the [Set Source Images action](https://docs.mixeffect.app/automate/shortcuts/actions/set-source-images) in Shortcuts to quickly update or clear out the source images for a given Switcher Connection. 
 
 ![Set Source Images Shortcut](https://1539191236-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MaiI5oKYEXGU01L5yjC%2Fuploads%2Fvjh7Dwtmr9pVqXFAGkHd%2Fset-source-images.gif?alt=media&token=f0647aad-0c72-4abe-b6cd-d9d4ba0a5f56)
+
