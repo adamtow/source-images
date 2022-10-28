@@ -43,6 +43,8 @@ Adding a color to your Source Images looks like this:
 6 #0000FF: https://adamtow.github.io/source-images/xbox.png
 ```
 
+![Source Images with colored backgrounds](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MaiI5oKYEXGU01L5yjC%2Fuploads%2F8Xdmz8Q5GwCOSiCZGWes%2Fsource-images-color.jpeg?alt=media&token=36c14c6b-d1ed-4291-b5b6-f0f1f70d6fbe)
+
 ## Using Shortcuts to Quickly Change Source Images
 
 Use the [Set Source Images action](https://docs.mixeffect.app/automate/shortcuts/actions/set-source-images) in Shortcuts to quickly update or clear out the source images for a given Switcher Connection. 
