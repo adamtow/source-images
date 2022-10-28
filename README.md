@@ -32,6 +32,17 @@ For instance, the following Source Images are defined for an ATEM Mini Extreme I
 
 ![Manually Setting Source Images](https://1539191236-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MaiI5oKYEXGU01L5yjC%2Fuploads%2FdS1GOaSf499gRq0oWqr9%2Fsource-images-edit.png?alt=media&token=4c65efc4-4f09-4e2e-bafa-12b567bedec0)
 
+Adding a color to your Source Images looks like this:
+
+```
+1 #FFCCFF: https://adamtow.github.io/source-images/5d4.png
+2 #333333: https://adamtow.github.io/source-images/ipad.png
+3 #AAAAAA: https://adamtow.github.io/source-images/ios.png
+4 #FF0000: https://adamtow.github.io/source-images/macmini.png
+5 #00FF00: https://adamtow.github.io/source-images/appletv.png
+6 #0000FF: https://adamtow.github.io/source-images/xbox.png
+```
+
 ## Using Shortcuts to Quickly Change Source Images
 
 Use the [Set Source Images action](https://docs.mixeffect.app/automate/shortcuts/actions/set-source-images) in Shortcuts to quickly update or clear out the source images for a given Switcher Connection. 
