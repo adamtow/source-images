@@ -30,7 +30,7 @@ For instance, the following Source Images are defined for an ATEM Mini Extreme I
 6: https://adamtow.github.io/source-images/xbox.png
 ```
 
-![Manually Setting Source Images](https://1539191236-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MaiI5oKYEXGU01L5yjC%2Fuploads%2FdS1GOaSf499gRq0oWqr9%2Fsource-images-edit.png?alt=media&token=4c65efc4-4f09-4e2e-bafa-12b567bedec0)
+![Manually Setting Source Images](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MaiI5oKYEXGU01L5yjC%2Fuploads%2FUD7qjl76iuXQksyV8yhi%2Fsource-images-edit.jpeg?alt=media&token=f8e81b93-50ac-4bda-83f2-b7741194b9dc)
 
 Adding a color to your Source Images looks like this:
 
